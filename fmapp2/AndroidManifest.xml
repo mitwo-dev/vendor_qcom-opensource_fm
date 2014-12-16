@@ -58,6 +58,7 @@
             android:screenOrientation="portrait"
             android:allowTaskReparenting="true"
             android:launchMode="singleTask"
+            android:configChanges="orientation|keyboardHidden|screenSize"
             android:excludeFromRecents="false" >
 
             <intent-filter>
