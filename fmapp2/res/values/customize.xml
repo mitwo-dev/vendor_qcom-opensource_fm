@@ -30,19 +30,19 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <resources>
 
     <!-- enabled the headset button function to seek next station or not,default value is false -->
-    <bool name="def_headset_next_enabled">false</bool>
+    <bool name="def_headset_next_enabled">true</bool>
 
     <!--
         customize the the country for fm,
         default value is false,true is for INDIA
     -->
-    <bool name="def_fm_country_location_enabled">false</bool>
+    <bool name="def_fm_country_location_enabled">true</bool>
 
     <!--
         customize the the special carrier for fm,
         default value is false,true is for Micromax
     -->
-    <bool name="def_fm_special_carrier_enabled">false</bool>
+    <bool name="def_fm_special_carrier_enabled">true</bool>
 
     <!--
         customize the output list,true is stereo only, false is stereo and mono,
