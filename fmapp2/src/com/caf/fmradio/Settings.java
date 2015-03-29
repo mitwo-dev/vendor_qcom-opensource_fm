@@ -180,7 +180,7 @@ public class Settings extends PreferenceActivity implements
                       index = 1;
                    }
                }
-               mAudioPreference.setDialogTitle(R.string.sel_audio_output);
+               mAudioPreference.setDialogTitle(R.string.aud_output_mode);
                mAudioPreference.setKey(AUDIO_OUTPUT_KEY);
                mAudioPreference.setTitle(R.string.aud_output_mode);
 
